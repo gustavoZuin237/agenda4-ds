@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda4-DS", "Agenda4-DS\Agenda4-DS.csproj", "{06E086EF-13D2-47D2-9F3C-6F0ECEDBB243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E086EF-13D2-47D2-9F3C-6F0ECEDBB243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E086EF-13D2-47D2-9F3C-6F0ECEDBB243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E086EF-13D2-47D2-9F3C-6F0ECEDBB243}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{06E086EF-13D2-47D2-9F3C-6F0ECEDBB243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E086EF-13D2-47D2-9F3C-6F0ECEDBB243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E086EF-13D2-47D2-9F3C-6F0ECEDBB243}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD9B8DEE-06DA-4142-AC70-47F80AAF466B}
+	EndGlobalSection
+EndGlobal
